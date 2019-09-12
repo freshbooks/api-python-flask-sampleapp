@@ -10,6 +10,10 @@ Email:
 Password: 
 ```
 - Visit the [developer page](https://my.freshbooks.com/#/developer) and create a new app.
+> Make sure that your redirect uri ends with **/TestAuthentication**, since this will be the endpoint used to verify that you have successfully set up your application on FresbBooks [developer page](https://my.freshbooks.com/#/developer). For example,
+```
+https://localhost:5000/TestAuthentication
+```
 - Once you have created the application, keep the [developer page](https://my.freshbooks.com/#/developer) open as you will need it for the next step.
 
 ## Running the Flask app
