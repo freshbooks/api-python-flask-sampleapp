@@ -13,7 +13,7 @@ dotenv_path = join(dirname(__file__), '.env')
 load_dotenv(dotenv_path)
 
 @app.route("/TestAuthentication")
-def oauth_session():
+def test_authentication():
     auth_code = request.args.get('code')
     auth_data = { 
         "grant_type": "authorization_code",
