@@ -1,6 +1,8 @@
 # api-python-flask-sampleapp
 
-This Flask application demostrates how developers can use the **FreshBooks API** to let users login to their application through **OAuth2** then access and modify the users' information using the endpoints provided to them.
+This Flask application demonstrates how developers can use the **FreshBooks API** to let users login to their application through **OAuth2** then access and modify the users' information using the endpoints provided to them.
+
+If you would like to use PostMan to get familiar with using FreshBooks API, please watch [this tutorial](oauth_postman_demo.mov).
 
 ## Setting up you developer account
 
