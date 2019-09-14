@@ -6,7 +6,7 @@ This Flask application demostrates how developers can use the **FreshBooks API**
 
 - Create a new FreshBooks account by signing up on the [signup page](https://my.freshbooks.com/#/signup).
 - Visit the [developer page](https://my.freshbooks.com/#/developer) and create a new app.
-> Make sure that your redirect uri ends with **/TestAuthentication**, since this will be the endpoint used to verify that you have successfully set up your application on FresbBooks [developer page](https://my.freshbooks.com/#/developer). For example,
+> Make sure that your redirect uri ends with **/TestAuthentication**, since this will be the endpoint used to verify that you have successfully set up your application on FreshBooks [developer page](https://my.freshbooks.com/#/developer). For example,
 ```
 https://localhost:5000/TestAuthentication
 ```
