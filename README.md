@@ -42,6 +42,8 @@ You have successfully logged in for First Last
 
 If you can see the above output, congrats you can now start building your application using the **Freshbooks API**. If you do not see the message, you will have to go over the instructions again.
 
+You can find out more about the **Freshbooks API** on our [documentation page](https://www.freshbooks.com/api/start).
+
 Hope you have a fun hackathon experience.
 
 **Cheers!**
